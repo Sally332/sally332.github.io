@@ -1,7 +1,22 @@
+
 # Sally Yepes, Ph.D.
+
 **Computational Biologist | Cancer Genomics & Interpretable AI**
 
 I develop **interpretable machine learning frameworks** that integrate multi-omic and spatial data to uncover the molecular logic of cancer. My work combines **mechanistic interpretability, reproducibility, and biological grounding**, aiming to build research-ready frameworks rather than one-off analyses. Current focus areas include **spatial transcriptomics**, **drug-response modeling**, and **graph-based multimodal architectures**.
+
+---
+
+## Research Focus
+
+My research sits at the intersection of **single-cell genomics**, **systems biology**, and **machine learning**. I design biologically constrained models that embed prior knowledge directly into their architecture, enabling transparent interpretation of high-dimensional genomic data. A central theme across my work is the development of **concept-bottleneck and pathway-aware models** that support mechanistic insight, reproducibility, and robust benchmarking across datasets, tissues, and modalities.
+
+Key areas of interest include:
+- Single-cell and spatial transcriptomics  
+- Multimodal data integration (scRNA-seq, scATAC-seq, spatial data)  
+- Interpretable deep learning and graph-based models  
+- Perturbation and drug-response modeling  
+- Reproducible computational genomics workflows  
 
 ---
 
@@ -39,10 +54,3 @@ I develop **interpretable machine learning frameworks** that integrate multi-omi
 **Interpretable by design · Reproducible by construction · Generalizable across data modalities.**
 
 My long-term goal is to establish **transparent and reusable computational standards** for cancer genomics frameworks that predict, explain, and generalize across tissues, datasets, and modalities.
-
----
-
-## Contact
-
-📧 **sallyepes233@gmail.com**  
-🔗 [GitHub Profile](https://github.com/Sally332)
