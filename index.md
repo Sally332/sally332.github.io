@@ -48,7 +48,6 @@ Key areas of interest include:
   DOI: [10.5281/zenodo.17272950](https://doi.org/10.5281/zenodo.17272950)
 
 ---
-
 ## Research Vision
 
 **Interpretable by design · Reproducible by construction · Generalizable across data modalities.**
